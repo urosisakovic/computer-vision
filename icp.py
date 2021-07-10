@@ -59,4 +59,6 @@ def rigid_aligment(
 
     return R, t
     
-    
+
+def icp():
+    pass
